@@ -29,6 +29,6 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thesamclem)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-thesamclem-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thesamclem)
 
 </center>
